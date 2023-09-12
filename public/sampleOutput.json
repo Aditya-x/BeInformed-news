@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "A look at Michael Oher's Ole Miss recruitment, the Tuohys impact and 'Blind Side' fallout",
+            "description": "Michael Oher, subject of \"The Blind Side,\" was an All-American offensive lineman for Ole Miss football. Here's how he came to play for the Rebels.",
+            "url": "https://www.usatoday.com/story/sports/2023/08/19/michael-oher-ole-miss-recruitment-tuohy-impact-blind-side-fallout/70619868007/",
+            "urlToImage": null,
+            "publishedAt": "2023-08-19T10:02:06+00:00",
+            "content": "Skip to main content\r\nThis content is only available to USA TODAY subscribers.\r\nAccess all subscriber-only stories\r\nYour subscription includes access to:\r\nExclusive, subscriber-only content and weekl… [+796 chars]"
+        },
+        {
+            "source": {
+                "id": "le-monde",
+                "name": "Le Monde"
+            },
+            "author": "Le Monde",
+            "title": "Arabie saoudite : le football au service des ambitions de « MBS »",
+            "description": "Le prince héritier saoudien Mohammed Ben Salman affole la planète foot en recrutant les stars internationales du ballon rond pour les clubs de son pays, à coups de centaines de millions d’euros. Une façon de diversifier son économie et de blanchir son image.",
+            "url": "https://www.lemonde.fr/idees/article/2023/08/19/arabie-saoudite-le-football-au-service-des-ambitions-de-mbs_6185910_3232.html",
+            "urlToImage": "https://img.lemde.fr/2023/08/19/0/0/5808/3872/1440/960/60/0/14758e3_1692428987874-2023-08-15t205325z-2136635943-rc2ko2abzat4-rtrmadp-3-soccer-saudi-neymar.JPG",
+            "publishedAt": "2023-08-19T09:30:13Z",
+            "content": "Mohammed Ben Salman, alias « MBS », a de grandes ambitions et de gros moyens pour les satisfaire. Maître de facto de lArabie saoudite à 37 ans, aux côtés de son père vieillissant, le roi Salman, le p… [+3284 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Josh Fordham",
+            "title": "Alessia Russo has gone from Charlton mascot to Man United and Arsenal star and is one game from being a...",
+            "description": "Alessia Russo has given a timely reminder to England that the future is in safe hands after Ellen White’s retirement. The Lionesses’ record goalscorer walked away from football after the glor…",
+            "url": "https://talksport.com/football/1535418/alessia-russo-man-utd-arsenal-england-womens-world-cup/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/08/alessia-russo-england-celebrates-scoring-838351963.jpg?strip=all&quality=100&w=1920&h=1080&crop=1",
+            "publishedAt": "2023-08-19T09:00:00Z",
+            "content": "Alessia Russo has given a timely reminder to England that the future is in safe hands after Ellen Whites retirement.\r\nThe Lionesses' record goalscorer walked away from football after the glorious suc… [+3473 chars]"
+        },
+        {
+            "source": {
+                "id": "talksport",
+                "name": "TalkSport"
+            },
+            "author": "Joe Brophy",
+            "title": "England manager Sarina Wiegman pretended to be a boy to play football, led Lionesses to European glory and...",
+            "description": "England are in touching distance of winning the Women’s World Cup for the first time ever – and a lot of that is to do with Sarina Wiegman. The Lionesses won the 2022 European Champions…",
+            "url": "https://talksport.com/football/1136149/england-women-sarina-wiegman-pretended-boy-world-cup-final/",
+            "urlToImage": "https://talksport.com/wp-content/uploads/sites/5/2023/08/ah-TALKSPORT-Wiegman-story.jpg?strip=all&quality=100&w=1500&h=1000&crop=1",
+            "publishedAt": "2023-08-18T10:52:00Z",
+            "content": "England are in touching distance of winning the Women's World Cup for the first time ever - and a lot of that is to do with Sarina Wiegman.\r\nThe Lionesses won the 2022 European Championship on home s… [+7586 chars]"
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": "Mike Clay",
+            "title": "Fantasy football Ultimate Draft Board - Perfect picks for every round - ESPN",
+            "description": "Things rarely go exactly as planned in fantasy football drafts, but Mike Clay provides a realistic blueprint to follow, including his ideal selections in each round and overall draft strategy for 2023.",
+            "url": "https://www.espn.com/fantasy/football/insider/story/_/id/38163081/2023-fantasy-football-draft-best-picks-round",
+            "urlToImage": "https://a3.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0810%2Fr1208795_1296x729_16%2D9.jpg",
+            "publishedAt": "2023-08-12T10:52:00Z",
+            "content": "Fantasy football drafts are all about collecting the best possible values, but we all know those special players exist who we want badly on our squad.\r\nWhether it's the young, up-and-coming wide rece… [+19791 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "Five famous people (and one cat) you didn't know have ESPNcricinfo profiles | ESPNcricinfo.com",
+            "description": "Why do a footballer, a Nobel laureate and a prime minister (no, not Imran Khan) find themselves in the ESPNcricinfo player database? | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29102695/five-famous-people-one-cat-know-espncricinfo-profiles",
+            "urlToImage": "https://a.espncdn.com/i/cricket/cricinfo/1221668_1296x1296.gif",
+            "publishedAt": "2020-04-27T07:20:43Z",
+            "content": "Why do a cat, a footballer, a Nobel laureate and a prime minister find themselves in the ESPNcricinfo database? Here are six player profiles you wouldn't have expected we had.\r\nPeter the catThe only … [+5504 chars]"
+        }
+    ]
+}
